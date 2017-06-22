@@ -60,7 +60,7 @@ require_once('../common/common.php');
 <input type="submit" value="value="絞り込み">
 </from>
 
-
+<?php>
 
 while(true)
 {
